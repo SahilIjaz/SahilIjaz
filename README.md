@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m Sahil — a Full Stack Developer (Next.js & Node.js).
+Hi, I’m Sahil a Full Stack Developer (Next.js & Node.js).
 I build fast, scalable, and user-centric web applications. With over 1.5 years of industry experience, I specialize in crafting robust backends, designing APIs, and delivering smooth frontend experiences.
 I’m always learning, experimenting, and pushing my limits to become better every day.
 Tech I work with: Next.js, Node.js, Express.js, MongoDB, Mongoose, TypeScript, Tailwind, AWS, Git/GitHub.
