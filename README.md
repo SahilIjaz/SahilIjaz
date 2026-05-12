@@ -109,6 +109,28 @@ export default sahil;
 
 ---
 
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SahilIjaz&theme=github_dark&exclude=html" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=SahilIjaz&theme=github_dark&exclude=html" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=SahilIjaz&theme=github_dark&utcOffset=5" height="170"/>
+&nbsp;&nbsp;
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=SahilIjaz&theme=github_dark" height="170"/>
+
+<br/><br/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=SahilIjaz&theme=github_dark" width="100%"/>
+
+</div>
+
+---
+
 ## 🏗️ System Architecture
 
 ```
